@@ -1,0 +1,10 @@
+.container {
+    padding: 1rem 3rem;
+}
+
+td.mat-cell, td.mat-footer-cell, th.mat-header-cell {
+    text-align: center;
+}
+td.mat-cell:first-of-type, td.mat-footer-cell:first-of-type, th.mat-header-cell:first-of-type {
+    padding: 5px 0px 5px 24px;
+}
